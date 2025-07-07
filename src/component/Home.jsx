@@ -7,7 +7,7 @@ function Home() {
       
       {/* Navbar */}
       <nav className="flex justify-between items-center px-10 py-6 bg-white shadow">
-        <div className="text-2xl font-bold text-green-700">Skill Up</div>
+        <div className="text-2xl font-bold text-green-700">PDHAKOOS</div>
         <ul className="flex gap-6 text-gray-700">
           <li><Link to="/home">Home</Link></li>
           <li><Link to="/about">About Us</Link></li>
