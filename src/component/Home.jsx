@@ -11,7 +11,7 @@ function Home() {
         <ul className="flex gap-6 text-gray-700">
           <li><Link to="/home">Home</Link></li>
           <li><Link to="/about">About Us</Link></li>
-          <li><Link to="/courses ">Courses</Link></li>
+          <li><Link to="/courses">Courses</Link></li>
         </ul>
         <button className="bg-green-600 text-white px-4 py-2 rounded"><Link to="/membership">Get Membership</Link></button>
       </nav>
